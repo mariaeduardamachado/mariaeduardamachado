@@ -29,7 +29,5 @@
  <a href="https://discord.gg/cRGp6qSy" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:mariaeduarda0450@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maria-eduarda-alves-4b45b9214" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/mariaeduardamachado/mariaeduardamachado/blob/output/github-contribution-grid-snake.svg)
- 
+ <a href="https://app.daily.dev/maduhmachado"><img src="https://api.daily.dev/devcards/ec90d01766b34ff48b75a2027c25e2d6.png?r=or2" width="400" alt="Maria Eduarda Machado Alves's Dev Card"/></a>
 </div>
